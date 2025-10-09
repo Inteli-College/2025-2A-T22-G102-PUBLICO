@@ -55,23 +55,18 @@ Leadership: strategic reports for institutional planning.
 
 ```plaintext
 📦 Project-Name
- ┣ 📂 src          # Project source code
- ┣ 📂 docs         # Documentation and project artifacts
- ┣ 📜 README.md    # This file
- ┣ 📜 LICENSE      # Project license
+ ┣ 📜 public_report       # Project updates
+ ┣ 📜 M13 - St.Paul's     # Apresentation
+ ┣ 📜 README.md           # This file
+ ┣ 📜 LICENSE             # Project license
 ```
 
 ## 📂 General Explanation of Folders
-
-src/ → Contains all source code and main scripts.
-
-docs/ → Holds complementary documentation, diagrams, reports, and other supporting artifacts.
 
 README.md → The main repository file providing an overview.
 
 LICENSE → License file defining the terms of project usage.
 
-CHANGELOG.md → History of changes and released versions of the project.
 
 ## 📜 Release History
 
