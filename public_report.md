@@ -17,7 +17,7 @@ The solution will reduce manual effort, improve reporting accuracy, and empower 
 
 ---
 
-## Scope
+## Project Backlog
 - **Data Sources:**  
   - Teacher inputs via SharePoint.  
   - Academic and financial records from the secretary’s office.  
